@@ -1,4 +1,4 @@
-﻿Someone Comes to Town, Someone Leaves Town
+Someone Comes to Town, Someone Leaves Town
 
 Cory Doctorow
 
@@ -256,7 +256,7 @@ UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS T
 Blurb
 =====
 
-SOMEONE COMES TO TOWN, SOMEONE LEAVES TOWN is a glorious book, but there are hundreds of those.  It is more.  It is a glorious book unlike any book you've ever read.
+SOMEONE COMES TO TOWN, SOMEONE LEAVES TOWN is a glorious book, but there are hundreds of those. It is more. It is a glorious book unlike any book you've ever read.
 
 - Gene Wolfe
 
@@ -276,9 +276,9 @@ Alan took possession of the house on January 1, and paid for it in full by means
 
 The clerks who'd tended Alan's many stores -- the used clothing store in the Beaches, the used book-store in the Annex, the collectible tin-toy store in Yorkville, the antique shop on Queen Street -- had both benefited from and had their patience tried by Alan's discursive nature. Alan had pretended never to notice the surreptitious rolling of eyes and twirling fingers aimed templewise among his employees when he got himself warmed up to a good oration, but in truth very little ever escaped his attention. His customers loved his little talks, loved the way he could wax rhapsodic about the tortured prose in a Victorian potboiler, the nearly erotic curve of a beat-up old table leg, the voluminous cuffs of an embroidered silk smoking jacket. The clerks who listened to Alan's lectures went on to open their own stores all about town, and by and large, they did very well.
 
-He'd put the word out when he bought the house on Wales Avenue to all his protégés: Wooden bookcases! His cell-phone rang every day, bringing news of another wooden bookcase found at this flea market, that thrift store, this rummage sale or estate auction.
+He'd put the word out when he bought the house on Wales Avenue to all his protgs: Wooden bookcases! His cell-phone rang every day, bringing news of another wooden bookcase found at this flea market, that thrift store, this rummage sale or estate auction.
 
-He had a man he used part-time, Tony, who ran a small man-with-van service, and when the phone rang, he'd send Tony over to his protégé's shop with his big panel van to pick up the case and deliver it to the cellar of the house on Wales Avenue, which was ramified by cold storages, root cellars, disused coal chutes and storm cellars. By the time Alan had finished with his sanding, every nook and cranny of the cellar was packed with wooden bookcases of every size and description and repair.
+He had a man he used part-time, Tony, who ran a small man-with-van service, and when the phone rang, he'd send Tony over to his protg's shop with his big panel van to pick up the case and deliver it to the cellar of the house on Wales Avenue, which was ramified by cold storages, root cellars, disused coal chutes and storm cellars. By the time Alan had finished with his sanding, every nook and cranny of the cellar was packed with wooden bookcases of every size and description and repair.
 
 Alan worked through the long Toronto winter at his sanding. The house had been gutted by the previous owners, who'd had big plans for the building but had been tempted away by a job in Boston. They'd had to sell fast, and no amount of realtor magic -- flowers on the dining-room table, soup simmering on the stove -- could charm away the essential dagginess of the gutted house, the exposed timbers with sagging wires and conduit, the runnels gouged in the floor by careless draggers of furniture. Alan got it for a song, and was delighted by his fortune.
 
@@ -310,7 +310,7 @@ Twenty coats of urethane took forty days -- a day to coat and a day to dry. More
 
 The bookcases came out of the cellar one by one. Alan wrestled them onto the front porch with Tony's help and sanded them clean, then turned them over to Tony for urethane and dooring.
 
-The doors were UV-filtering glass, hinged at the top and surrounded by felt on their inside lips so that they closed softly. Each one had a small brass prop-rod on the left side that could brace it open. Tony had been responsible for measuring each bookcase after he retrieved it from Alan's protégés' shops and for sending the measurements off to a glazier in Mississauga.
+The doors were UV-filtering glass, hinged at the top and surrounded by felt on their inside lips so that they closed softly. Each one had a small brass prop-rod on the left side that could brace it open. Tony had been responsible for measuring each bookcase after he retrieved it from Alan's protgs' shops and for sending the measurements off to a glazier in Mississauga.
 
 The glazier was technically retired, but he'd built every display case that had ever sat inside any of Alan's shops and was happy to make use of the small workshop that his daughter and son-in-law had installed in his garage when they retired him to the burbs.
 
@@ -434,7 +434,7 @@ They sat. Alan slurped down the rest of his coffee, then gestured at the sack. T
 
 "Yup," she said. She fished in the voluminous pockets of her jeans, tugging them lower on her knobby hips, and came up with a pack of cigarettes. She offered one to her brother -- who took it -- and one to Alan, who declined, then lit up. "Studying fashion design at OCAD. I'm in my last year, so it's all practicum from now on."
 
-"Fashion! How interesting," Alan said. "I used to run a little vintage clothes shop in the Beaches, called Tropicál."
+"Fashion! How interesting," Alan said. "I used to run a little vintage clothes shop in the Beaches, called Tropicl."
 
 "Oh, I *loved* that shop," she said. "You had the *best* stuff! I used to sneak out there on the streetcar after school." Yup. He didn't remember *her*, exactly, but her *type*, sure. Solo girls with hardcover sketch books and vintage clothes home-tailored to a nice fit.
 
@@ -1108,7 +1108,7 @@ Andrew sat in his office by his laptop and watched the sun come out. He needed t
 
 So he put his soaked clothes in the dryer, clamped his laptop under his arm, and went out. He moped around the park and the fountain, but the stroller moms whose tots were splashing in the wading pool gave him sufficient dirty looks that he walked up to the Greek's, took a table on the patio, and ordered a murderously strong cup of coffee.
 
-He opened up the screen and rotated around the little café table until the screen was in the shade and his wireless card was aligned for best reception from the yagi antenna poking out of his back window. He opened up a browser and hit MapQuest, then brought up a street-detailed map of the Market. He pasted it into his CAD app and started to mark it up, noting all the different approaches to his house that Davey might take the next time he came. The maps soothed him, made him feel like a part of the known world.
+He opened up the screen and rotated around the little caf table until the screen was in the shade and his wireless card was aligned for best reception from the yagi antenna poking out of his back window. He opened up a browser and hit MapQuest, then brought up a street-detailed map of the Market. He pasted it into his CAD app and started to mark it up, noting all the different approaches to his house that Davey might take the next time he came. The maps soothed him, made him feel like a part of the known world.
 
 Augusta Avenue and Oxford were both out; even after midnight, when the stores were all shuttered, there was far too much foot traffic for Davey to pass by unnoticed. But the alleys that mazed the back ways were ideal. Some were fenced off, some were too narrow to pass, but most of them -- he'd tried to navigate them by bicycle once and found himself utterly lost. He'd had to turn around slowly until he spotted the CN Tower and use it to get his bearings.
 
@@ -2494,7 +2494,7 @@ The Greek gave him half a smile, which was his version of roaring hilarity.
 
 "Pah," the Greek said.
 
-Anders nodded. "I knew you were going to say that. But don't think of this as a computer thing, okay? Think of this as a free speech thing. We're putting in a system to allow people all over the Market -- and someday, maybe, the whole city -- to communicate for free, in private, without permission from anyone. They can send messages, they can get information about the world, they can have conversations. It's like a library and a telephone and a café all at once."
+Anders nodded. "I knew you were going to say that. But don't think of this as a computer thing, okay? Think of this as a free speech thing. We're putting in a system to allow people all over the Market -- and someday, maybe, the whole city -- to communicate for free, in private, without permission from anyone. They can send messages, they can get information about the world, they can have conversations. It's like a library and a telephone and a caf all at once."
 
 Larry poured himself a coffee. "I hate when they come in here with computers. They sit forever at their tables, and they don't talk to nobody, it's like having a place full of statues or zombies."
 
@@ -2662,7 +2662,7 @@ The Bell boardroom looked more like a retail operation than a back office, decke
 
 "This is good work," Alan said, gesturing at the blown-up artwork of pan-ethnic models who were extraordinary- but not beautiful-looking on the walls. The Bell redesign had come at the same time as the telco was struggling back from the brink of bankruptcy, and the marketing firm they'd hired to do the work had made its name on the strength of the campaign. "Makes you feel like using a phone is a really futuristic, cutting-edge activity," he said.
 
-His contact at the semiprivatized corporation was a young kid who shopped at one of his protégés' designer furniture store. He was a young turk who'd made a name for himself quickly in the company through a couple of ISP acquisitions at fire-sale prices after the dot-bomb, which he'd executed flawlessly, integrating the companies into Bell's network with hardly a hiccup. He'd been very polite and guardedly enthusiastic when Alan called him, and had invited him down to meet some of his colleagues.
+His contact at the semiprivatized corporation was a young kid who shopped at one of his protgs' designer furniture store. He was a young turk who'd made a name for himself quickly in the company through a couple of ISP acquisitions at fire-sale prices after the dot-bomb, which he'd executed flawlessly, integrating the companies into Bell's network with hardly a hiccup. He'd been very polite and guardedly enthusiastic when Alan called him, and had invited him down to meet some of his colleagues.
 
 Though Alan had never met him, he recognized him the minute he walked in as the person who had to go with the confident voice he'd heard on the phone.
 
@@ -2858,7 +2858,7 @@ Lyman held up a hand. "Sorry, Alan, I don't mean to interrupt, but there was som
 
 "I took a holiday last week," Lyman said. "Me and my girlfriend. We went to Switzerland to see the Alps and to visit her sister, who's doing something for the UN in Geneva. So her sister, she's into, I don't know, saving children from vampires in Afghanistan or something, and she has Internet access at the office, and can't see any reason to drop a connection in at home. So there I was, wandering the streets of Geneva at seven in the morning, trying to find a WiFi connection so I can get my email and find out how many ways I can enlarge my penis this week.
 
-"No problem -- outside every hotel and most of the cafés, I can find a signal for a network called Swisscom. I log on to the network and I fire up a browser and I get a screen asking me for my password. Well, I don't have one, but after poking around, I find out that I can buy a card with a temporary password on it. So I wait until some of the little smoke shops open and start asking them if they sell Swisscom Internet Cards, in my terrible, miserable French, and after chuckling at my accent, they look at me and say, 'I have no clue what you're talking about,' shrug, and go back to work.
+"No problem -- outside every hotel and most of the cafs, I can find a signal for a network called Swisscom. I log on to the network and I fire up a browser and I get a screen asking me for my password. Well, I don't have one, but after poking around, I find out that I can buy a card with a temporary password on it. So I wait until some of the little smoke shops open and start asking them if they sell Swisscom Internet Cards, in my terrible, miserable French, and after chuckling at my accent, they look at me and say, 'I have no clue what you're talking about,' shrug, and go back to work.
 
 "Then I get the idea to go and ask at the hotels. The first one, the guy tells me that they only sell cards to guests, since they're in short supply. The cards are in short supply! Three hotels later, they allow as how they'll sell me a 30-minute card. Oh, that's fine. Thirty whole minutes of connectivity. Whoopee. And how much will that be? Only about a zillion Swiss pesos. Don't they sell cards of larger denominations? Oh sure, two hours, 24 hours, seven days -- and each one costs about double the last, so if you want, you can get a seven day card for about as much as you'd spend on a day's worth of connectivity in 30-minute increments -- about three hundred dollars Canadian for a week, just FYI.
 
@@ -3144,7 +3144,7 @@ He waved at the neighbors, and Link waved back, and then so did Natalie, and he 
 
 "Beautiful day," Natalie said rubbing the duckling fuzz on her scalp and closing her eyes.
 
-"Found any work yet?" Alan said remembering his promise to put her in touch with one of his fashionista protégés.
+"Found any work yet?" Alan said remembering his promise to put her in touch with one of his fashionista protgs.
 
 She made a face. "In a video store. Bo-ring."
 
@@ -3218,7 +3218,7 @@ He looked at Link and Natalie, who were looking to one another rather intensely,
 
 She shoved him back. "And why *you* went into electrical engineering!"
 
-"Okay," Alan said. "It's not necessarily about what career you pick. It's about how you do what you do. Natalie, you told me you used to shop at Tropicál."
+"Okay," Alan said. "It's not necessarily about what career you pick. It's about how you do what you do. Natalie, you told me you used to shop at Tropicl."
 
 She nodded.
 
@@ -3226,7 +3226,7 @@ She nodded.
 
 "Yeah."
 
-"And it inspired you to go into fashion design. It also provided employment for a couple dozen people over the years. I sometimes got to help out little alternative girls from North Toronto buy vintage prom dresses at the end of the year, and I helped Motown revival bands put together matching outfits of red blazers and wide trousers. Four or five little shops opened up nearby selling the same kind of thing, imitating me -- that whole little strip down there started with Tropicál."
+"And it inspired you to go into fashion design. It also provided employment for a couple dozen people over the years. I sometimes got to help out little alternative girls from North Toronto buy vintage prom dresses at the end of the year, and I helped Motown revival bands put together matching outfits of red blazers and wide trousers. Four or five little shops opened up nearby selling the same kind of thing, imitating me -- that whole little strip down there started with Tropicl."
 
 Natalie nodded. "Okay, I knew that, I guess. But it's not the same as *really* making a difference, is it?"
 
@@ -4938,7 +4938,7 @@ She came around the counter with her cigs in one hand and her lighter in the oth
 
 He sniffed cautiously. "Very macha," he said. He realized that the other patrons in the shop were eyeballing him, a middle-aged man, with his face buried in this alterna-girl's throat.
 
-He remembered suddenly that he still hadn't put in a call to get her a job somewhere else, and was smitten with guilt. "Hey," he said. "Damn. I was supposed to call Tropicál and see about getting you a job. I'll do it right away." He pulled a little steno pad out of his pocket and started jotting down a note to himself.
+He remembered suddenly that he still hadn't put in a call to get her a job somewhere else, and was smitten with guilt. "Hey," he said. "Damn. I was supposed to call Tropicl and see about getting you a job. I'll do it right away." He pulled a little steno pad out of his pocket and started jotting down a note to himself.
 
 She put her hand out. "Oh, that's okay," she said. "I really like this job. I've been looking up all my old high school friends: You were right, everyone I ever knew has an account with Martian Signal. God, you should *see* the movies they rent."
 
@@ -5596,7 +5596,7 @@ It worked the same with George. After a hard stare at his shoes, he shook his he
 
 "I just wanted to be like you.
 
-"They stopped letting me into the clubs after I ran out of money, and they kicked me out of the cafés. I tried to ride the subway all night, but they threw me off at the end of the line, so I ended up digging a transfer out of a trash can and taking an all-night bus back downtown.
+"They stopped letting me into the clubs after I ran out of money, and they kicked me out of the cafs. I tried to ride the subway all night, but they threw me off at the end of the line, so I ended up digging a transfer out of a trash can and taking an all-night bus back downtown.
 
 "No one looked at me twice that whole time, except to make sure that I was gone. I walked back here from Eglinton."
 
@@ -5954,7 +5954,7 @@ He held up a hand. "I'm grateful for all the work you've done, Natalie. You don'
 
 "Okay," she said. She looked indecisively around, then seemed to make up her mind and she hugged him hard. "Take care of yourself, okay?"
 
-It struck him as funny. "I can take care of myself just fine, don't worry about me for a second. You still looking for fashion work? I think Tropicál will be hiring for the summer. I could put in that phone-call."
+It struck him as funny. "I can take care of myself just fine, don't worry about me for a second. You still looking for fashion work? I think Tropicl will be hiring for the summer. I could put in that phone-call."
 
 "No," she said. "No, that's okay." She looked over his shoulder and her eyes widened. He turned around and saw that Krishna and Link had spotted them, and that Krishna was whispering something in Link's ear that was making Link grin nastily.
 
@@ -6150,7 +6150,7 @@ Krishna climbed slowly to his feet and stood off a pace or two, staring at Drew.
 
 "Look at that," Darrel said. "Look at him talking to them, his little army, like a general giving them a pep talk. He got that from my brother, I'm sure. Everywhere he goes, he leaves a trail of manipulators who run other people's lives."
 
-Alan's stomach clenched in on itself, and his butt and thighs ached suddenly, like he'd been running hard. He thought about his protégés with their shops and their young employees, learning the trade from them as they'd learned it from him. How long had Don been watching him?
+Alan's stomach clenched in on itself, and his butt and thighs ached suddenly, like he'd been running hard. He thought about his protgs with their shops and their young employees, learning the trade from them as they'd learned it from him. How long had Don been watching him?
 
 "When are we going to do it?" Krishna spat out his cigarette and shook another out of his pack and stuck it in his mouth.
 
